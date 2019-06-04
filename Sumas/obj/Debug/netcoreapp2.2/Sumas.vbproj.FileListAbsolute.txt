@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Procedimientos\Sumas\bin\Debug\netcoreapp2.2\Sumas.deps.json
+C:\Users\Mili\source\repos\Procedimientos\Sumas\bin\Debug\netcoreapp2.2\Sumas.runtimeconfig.json
+C:\Users\Mili\source\repos\Procedimientos\Sumas\bin\Debug\netcoreapp2.2\Sumas.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Procedimientos\Sumas\bin\Debug\netcoreapp2.2\Sumas.dll
+C:\Users\Mili\source\repos\Procedimientos\Sumas\bin\Debug\netcoreapp2.2\Sumas.pdb
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.dll
+C:\Users\Mili\source\repos\Procedimientos\Sumas\obj\Debug\netcoreapp2.2\Sumas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\bin\Debug\netcoreapp2.2\nueva_fecha.deps.json
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\bin\Debug\netcoreapp2.2\nueva_fecha.runtimeconfig.json
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\bin\Debug\netcoreapp2.2\nueva_fecha.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\bin\Debug\netcoreapp2.2\nueva_fecha.dll
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\bin\Debug\netcoreapp2.2\nueva_fecha.pdb
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.dll
+C:\Users\Mili\source\repos\Procedimientos\nueva_fecha\obj\Debug\netcoreapp2.2\nueva_fecha.pdb

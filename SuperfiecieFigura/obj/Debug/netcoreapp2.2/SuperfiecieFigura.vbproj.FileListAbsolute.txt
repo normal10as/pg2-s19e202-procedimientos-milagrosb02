@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\bin\Debug\netcoreapp2.2\SuperfiecieFigura.deps.json
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\bin\Debug\netcoreapp2.2\SuperfiecieFigura.runtimeconfig.json
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\bin\Debug\netcoreapp2.2\SuperfiecieFigura.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\bin\Debug\netcoreapp2.2\SuperfiecieFigura.dll
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\bin\Debug\netcoreapp2.2\SuperfiecieFigura.pdb
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.dll
+C:\Users\Mili\source\repos\Procedimientos\SuperfiecieFigura\obj\Debug\netcoreapp2.2\SuperfiecieFigura.pdb
